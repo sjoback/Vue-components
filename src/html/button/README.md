@@ -3,7 +3,7 @@
 ## Useage
 Import the component
 ```
-import { Button } from '@swegaming-ab/vue-components'
+import { Button } from '@leetajz/vue-components'
 ```
 
 In your template

@@ -3,7 +3,7 @@
 ## Useage
 Import the component
 ```
-import { Section } from '@swegaming-ab/vue-components'
+import { Section } from '@leetajz/vue-components'
 ```
 
 In your template

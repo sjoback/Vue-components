@@ -3,7 +3,7 @@
 ## Useage
 Import the component
 ```
-import { ScrollTop } from '@swegaming-ab/vue-components'
+import { ScrollTop } from '@leetajz/vue-components'
 ```
 
 In your template.

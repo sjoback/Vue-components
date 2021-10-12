@@ -3,7 +3,7 @@
 ## Useage
 Import the component
 ```
-import { CookieConsent } from '@swegaming-ab/vue-components'
+import { CookieConsent } from '@leetajz/vue-components'
 ```
 
 In your template.

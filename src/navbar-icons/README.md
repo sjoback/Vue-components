@@ -7,7 +7,7 @@ prismic.json directly into prismic.
 Import the component  
 
 ```
-import { Navbar } from '@swegaming-ab/vue-components'
+import { Navbar } from '@leetajz/vue-components'
 ```
 
 In your template

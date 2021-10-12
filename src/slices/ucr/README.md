@@ -3,7 +3,7 @@
 ## Useage
 Import the component
 ```
-import { Ucr } from '@swegaming-ab/vue-components'
+import { Ucr } from '@leetajz/vue-components'
 ```
 
 In your template

@@ -3,7 +3,7 @@
 ## Useage
 Import the component
 ```
-import { ButtonNuxt } from '@swegaming-ab/vue-components'
+import { ButtonNuxt } from '@leetajz/vue-components'
 ```
 
 In your template
