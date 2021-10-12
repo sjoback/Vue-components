@@ -1,0 +1,69 @@
+{
+  "Main" : {
+    "body" : {
+      "type" : "Slices",
+      "fieldset" : "Slice zone",
+      "config" : {
+        "labels" : {
+          "dropdown_menu" : [ ],
+          "link" : [ ]
+        },
+        "choices" : {
+          "dropdown_menu" : {
+            "type" : "Slice",
+            "fieldset" : "Dropdown Menu",
+            "description" : "Dropdown",
+            "icon" : "face",
+            "display" : "list",
+            "non-repeat" : {
+              "ddm_text" : {
+                "type" : "Text",
+                "config" : {
+                  "label" : "Navbar Text"
+                }
+              }
+            },
+            "repeat" : {
+              "ddm_link" : {
+                "type" : "Link",
+                "config" : {
+                  "select" : "document",
+                  "label" : "ddm_link"
+                }
+              },
+              "ddm_link_text" : {
+                "type" : "Text",
+                "config" : {
+                  "label" : "Text"
+                }
+              }
+            }
+          },
+          "link" : {
+            "type" : "Slice",
+            "fieldset" : "Link",
+            "description" : "Simple link",
+            "icon" : "face",
+            "display" : "list",
+            "non-repeat" : {
+              "sl_text" : {
+                "type" : "Text",
+                "config" : {
+                  "label" : "Text"
+                }
+              },
+              "sl_link" : {
+                "type" : "Link",
+                "config" : {
+                  "select" : "document",
+                  "label" : "sl_link"
+                }
+              }
+            },
+            "repeat" : { }
+          }
+        }
+      }
+    }
+  }
+}
